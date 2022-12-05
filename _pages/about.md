@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Corrine Tan's LinkedIn[LinkedIn page](https://www.linkedin.com/in/corrine-tan12/)
+Corrine Tan's LinkedIn - [LinkedIn page](https://www.linkedin.com/in/corrine-tan12/)
 
-Corrine Tan's GitHub[GitHub page](https://github.com/CorrineTan)
+Corrine Tan's GitHub - [GitHub page](https://github.com/CorrineTan)
 
-Corrine Tan's LeetCode[LeetCode page](https://leetcode.com/corrtan/)
+Corrine Tan's LeetCode - [LeetCode page](https://leetcode.com/corrtan/)
 
 To Be Designed
 ======
